@@ -1,2 +1,2 @@
 # Chat-Bot
-Ai chat bot in MERN4
+Ai chat bot in MERN
